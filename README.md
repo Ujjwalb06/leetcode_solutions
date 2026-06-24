@@ -25,8 +25,10 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
