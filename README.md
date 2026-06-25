@@ -9,6 +9,7 @@ Documenting my DSA journey with LeetCode
 | [0001-two-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -25,10 +26,12 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
