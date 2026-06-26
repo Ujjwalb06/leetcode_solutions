@@ -22,6 +22,7 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -33,5 +34,14 @@ Documenting my DSA journey with LeetCode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
