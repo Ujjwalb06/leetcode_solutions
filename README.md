@@ -16,6 +16,7 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -26,6 +27,7 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -53,4 +55,8 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
