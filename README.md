@@ -29,6 +29,7 @@ Documenting my DSA journey with LeetCode
 | [0001-two-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -68,4 +69,5 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
