@@ -34,6 +34,7 @@ Documenting my DSA journey with LeetCode
 | [0152-maximum-product-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 ## Linked List
 |  |
 | ------- |
