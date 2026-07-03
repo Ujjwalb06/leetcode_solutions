@@ -35,6 +35,7 @@ Documenting my DSA journey with LeetCode
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
@@ -73,11 +74,21 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
