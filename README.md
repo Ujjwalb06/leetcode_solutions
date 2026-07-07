@@ -38,6 +38,7 @@ Documenting my DSA journey with LeetCode
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -101,4 +102,5 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
