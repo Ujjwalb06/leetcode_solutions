@@ -20,6 +20,7 @@ Documenting my DSA journey with LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0344-reverse-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Documenting my DSA journey with LeetCode
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
