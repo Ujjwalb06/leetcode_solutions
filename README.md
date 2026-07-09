@@ -14,6 +14,7 @@ Documenting my DSA journey with LeetCode
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Documenting my DSA journey with LeetCode
 | [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -107,4 +109,8 @@ Documenting my DSA journey with LeetCode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
