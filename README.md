@@ -21,6 +21,7 @@ Documenting my DSA journey with LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -120,4 +121,8 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
