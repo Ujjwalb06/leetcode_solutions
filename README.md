@@ -22,6 +22,7 @@ Documenting my DSA journey with LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -125,4 +127,8 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
