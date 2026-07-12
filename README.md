@@ -28,6 +28,7 @@ Documenting my DSA journey with LeetCode
 | [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Documenting my DSA journey with LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
