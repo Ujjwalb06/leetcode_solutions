@@ -44,6 +44,7 @@ Documenting my DSA journey with LeetCode
 | [0014-longest-common-prefix](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
