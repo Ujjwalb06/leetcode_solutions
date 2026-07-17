@@ -45,6 +45,7 @@ Documenting my DSA journey with LeetCode
 | [0053-maximum-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +89,7 @@ Documenting my DSA journey with LeetCode
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0202-happy-number) |
 ## Trie
 |  |
