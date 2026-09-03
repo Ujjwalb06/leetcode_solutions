@@ -50,6 +50,7 @@ Documenting my DSA journey with LeetCode
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -127,6 +128,7 @@ Documenting my DSA journey with LeetCode
 | ------- |
 | [0056-merge-intervals](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
