@@ -154,5 +154,6 @@ Documenting my DSA journey with LeetCode
 | [1068-product-sales-analysis-i](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
