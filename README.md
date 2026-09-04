@@ -145,5 +145,6 @@ Documenting my DSA journey with LeetCode
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ujjwalb06/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
